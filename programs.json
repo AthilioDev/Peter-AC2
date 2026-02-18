@@ -1,0 +1,98 @@
+{
+  "1": {
+    "name": "System Informer",
+    "url": "https://sourceforge.net/projects/systeminformer/files/latest/download",
+    "run_after_download": false
+  },
+  "2": {
+    "name": "WinPrefetchView",
+    "url": "https://www.nirsoft.net/utils/winprefetchview.zip",
+    "run_after_download": false
+  },
+  "3": {
+    "name": "USBDeview",
+    "url": "https://www.nirsoft.net/utils/usbdeview.zip",
+    "run_after_download": false
+  },
+  "4": {
+    "name": "LastActivityView",
+    "url": "https://www.nirsoft.net/utils/lastactivityview.zip",
+    "run_after_download": false
+  },
+  "5": {
+    "name": "BrowsingHistoryView",
+    "url": "https://www.nirsoft.net/utils/browsinghistoryview.zip",
+    "run_after_download": false
+  },
+  "6": {
+    "name": "UserAssistView",
+    "url": "https://www.nirsoft.net/utils/userassistview.zip",
+    "run_after_download": false
+  },
+  "7": {
+    "name": "ExecutedProgramsList",
+    "url": "https://www.nirsoft.net/utils/executedprogramslist.zip",
+    "run_after_download": false
+  },
+  "8": {
+    "name": "ShellBagsView",
+    "url": "https://www.nirsoft.net/utils/shellbagsview.zip",
+    "run_after_download": false
+  },
+  "9": {
+    "name": "RecentFilesView",
+    "url": "https://www.nirsoft.net/utils/recentfilesview.zip",
+    "run_after_download": false
+  },
+  "10": {
+    "name": "AppCrashView",
+    "url": "https://www.nirsoft.net/utils/appcrashview.zip",
+    "run_after_download": false
+  },
+  "11": {
+    "name": "TurnedOnTimesView",
+    "url": "https://www.nirsoft.net/utils/turnedontimesview.zip",
+    "run_after_download": false
+  },
+  "12": {
+    "name": "FullEventLogView",
+    "url": "https://www.nirsoft.net/utils/fulleventlogview.zip",
+    "run_after_download": false
+  },
+  "13": {
+    "name": "FTK Imager",
+    "url": "https://accessdata.com/product-download/ftk-imager-version-4-5-0",
+    "run_after_download": false,
+    "note": "Versão gratuita da AccessData, ótima pra imagens forenses"
+  },
+  "14": {
+    "name": "Hayabusa",
+    "url": "https://github.com/Yamato-Security/hayabusa/releases/latest",
+    "run_after_download": false,
+    "note": "Ferramenta rápida de timeline Windows (Sigma rules)"
+  },
+  "15": {
+    "name": "Eric Zimmerman Tools (Registry Explorer ou suite)",
+    "url": "https://ericzimmerman.github.io/Software.html",
+    "run_after_download": false,
+    "note": "Baixe o pacote completo ou Registry Explorer, PECmd, etc."
+  },
+  "16": {
+    "name": "Magnet AXIOM / Magnet Acquire",
+    "url": "https://www.magnetforensics.com/resources/magnet-acquire/",
+    "run_after_download": false,
+    "note": "Magnet Acquire é grátis pra aquisição de dados"
+  },
+  "17": {
+    "name": "OSForensics",
+    "url": "https://www.osforensics.com/download.html",
+    "run_after_download": false,
+    "note": "Versão free com limitações, boa pra USB e browser artifacts"
+  },
+  "18": {
+    "name": "Detect.AC.exe (ou Detect AC)",
+    "url": "https://detect.ac/",
+    "run_after_download": false,
+    "note": "Parece ser o checker principal do tool (anti-cheat forense), baixe do site oficial"
+  }
+}
